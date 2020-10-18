@@ -1,0 +1,50 @@
+.navbar{
+    display: inline-block;
+    margin-left: 60em;
+}
+
+.navbar li{
+    display: inline-block;
+    line-height: 24px;
+    outline: none;
+    vertical-align: middle;
+    color: rgba;
+}
+
+
+.navbar li button{
+    color:white;
+    background-color: #1a73e8;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    font-family: Google Sans,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    font-weight: 500px;
+    width: 80px;
+    min-width: 96px;
+    text-align: center;
+    vertical-align: middle;
+    margin-right : 8px;
+    padding: 9px 23px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.search-bar input{
+    margin: auto;
+    height: 40px;
+    width: 600px;
+    border-radius: 64px;
+    border-style: 1px solid;
+}
+
+.btns{
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-size: 14px;
+    padding: 0 16px;
+
+}
